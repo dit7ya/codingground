@@ -1,2 +1,1 @@
-# codingground
-Main Repository for Coding Ground
+This is the readme file.
